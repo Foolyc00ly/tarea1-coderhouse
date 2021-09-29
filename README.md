@@ -26,6 +26,7 @@ Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicament
 
 Si un caso no pueden instalar las dependencias y ejecutar el proyecto les dejo la pagina donde podran visualizarla
 ```
+https://foolyc00ly.github.io/tarea1-coderhouse/
 
 ```
 
