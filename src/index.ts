@@ -13,3 +13,4 @@ usuario1.addBook(
     {nombre: 'En busca del tiempo perdido', autor: 'Marcel Proust'},
 );
 console.log(usuario1.getBookNames());
+console.log(usuario1);
